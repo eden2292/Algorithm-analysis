@@ -100,7 +100,6 @@ static void timeCalc(Stopwatch stopwatch)
 }
 
 Random rand = new Random();
-Stopwatch stopwatch = new Stopwatch();
 
 int[] array = new int[10];
 
